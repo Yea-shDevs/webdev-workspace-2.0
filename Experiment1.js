@@ -9,7 +9,7 @@ function calculateResult() {
     }
 
     let percentage = total / subjects;
-    let grade;
+    let grade; 
 
     if (percentage >= 90) {
         grade = "A+";   
